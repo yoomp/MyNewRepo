@@ -1,0 +1,10 @@
+erDiagram
+    STUDENT {
+        int student_id PK
+        string name
+    }
+    COURSE {
+        int course_id PK
+        string title
+    }
+    STUDENT }o--o{ COURSE : enrols
