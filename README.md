@@ -1,4 +1,5 @@
 # TechMart Data Pipeline
+![Open Issues](https://img.shields.io/github/issues/yoomp/MyNewRepo)
 
 ![Teaching](https://img.shields.io/badge/module-DE5M4-blue)
 ![Python Version](https://img.shields.io/badge/python-3.9--3.12-blue.svg)
